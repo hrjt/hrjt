@@ -6,6 +6,6 @@
     Mobile App Developement, Website Design and Development, Desktop Software development (Windows),
     AutoCAD Customization, Logo and Creative Design, Embedded Electronics Prototype
     💬 Ask me about AutoCAD, 3DSMAX, Gimp, Inkscape
-  📫 How to Reach me: Re<a href="https://www.virses.com/architectrual-renderings-contact">Contact Me</a>  
-🔭 Check my Portfolio at: <a href="https://www.virses.com">Architectural Renderings and Walkthorugh Animation</a>
-<img src="https://github-readme-stats.vercel.app/api?username=hrjt&&show_icons=true&title_color=ffffff&icon_color=7cccbf&text_color=daf7dc&bg_color=3d4554">
+  📫 How to Reach me: <a href="https://www.virses.com/architectrual-renderings-contact">Contact Me</a>  
+  🔭 Check my Portfolio at: <a href="https://www.virses.com">Architectural Renderings and Walkthorugh Animation</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hrjt&&show_icons=true&title_color=ffffff&icon_color=7cccbf&text_color=daf7dc&bg_color=3d4554">
