@@ -18,6 +18,8 @@
      <li><a href="https://play.google.com/store/apps/details?id=com.BaaniNet.ParmesharTV">Official Android mobile app - Dhadrianwale</a></li>
      <li><a href="https://play.google.com/store/apps/details?id=com.BaaniNet.BaaniLive&hl=en_IN&gl=US">Android App Baani.Net Live Gurbani Kirtan</a></li>
      <li><a href="https://apps.apple.com/us/app/baani-net/id1510198965">iOS App Baani.Net Live Gurbani Kirtan</a></li>
+     <li><a href="https://earningmatters.com">earning &amp; personal finance matters</a></li>
+
     </ul>
     
     
